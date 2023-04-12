@@ -6,3 +6,8 @@
 so make sure to add a voltage divider or a voltage level shifter or an optocupler
 before connecting it ot the d1 mini board.
 
+# CREDITS
+
+webgl code from :- https://github.com/bitluni/3DScannerESP8266
+
+
